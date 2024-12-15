@@ -1,6 +1,6 @@
-## Kudai Bank API
+## Open Payment API
 
-Kudai Bank is a Node.js application that provides a comprehensive API for bank operations. It offers functionalities for both users and administrators, making it a versatile solution for financial management.
+Open Payment API is a Node.js application that provides a comprehensive API for bank operations. It offers functionalities for both users and administrators, making it a versatile solution for financial management.
 
 ## Features
 
